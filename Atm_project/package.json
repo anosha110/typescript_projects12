@@ -1,0 +1,19 @@
+{
+  "name": "01_atm_project",
+  "version": "1.0.0",
+  "description": "This project is based on ATM Machine transactions",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anosha shah",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
